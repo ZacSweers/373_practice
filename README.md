@@ -1,5 +1,5 @@
-373_practice
-============
+CS 373 - Software Engineering
+=============================
 
 A group for getting extra practice and review for Downing's 373 Software Engineering class.
 
