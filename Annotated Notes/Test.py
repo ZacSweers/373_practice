@@ -4,8 +4,7 @@
 # Test.py
 # -------
 
-print "Test.py"
-
-s = set(({}))
+for v in open("Test.py") :
+    print v,
 
 print "Done."
